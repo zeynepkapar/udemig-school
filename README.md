@@ -6,16 +6,12 @@
 
 <p>
 
-HTML
-CSS
+- HTML </br></br>
+- CSS
 
 </br></br>
 
-
-</br></br>
-
-- BDD
   </br>
   </br> Responsive </p>
 
-![](./images/udemigschool-1.gif.)
+![](./udemigschool.gif)
